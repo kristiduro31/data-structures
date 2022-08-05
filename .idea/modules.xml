@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BinaryTrees/BinaryTrees.iml" filepath="$PROJECT_DIR$/BinaryTrees/BinaryTrees.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Data_Structures.iml" filepath="$PROJECT_DIR$/.idea/Data_Structures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HashMaps/HashMaps.iml" filepath="$PROJECT_DIR$/HashMaps/HashMaps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HeapsNPriorityQueues/HeapsNPriorityQueues.iml" filepath="$PROJECT_DIR$/HeapsNPriorityQueues/HeapsNPriorityQueues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedLists/LinkedLists.iml" filepath="$PROJECT_DIR$/LinkedLists/LinkedLists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PriorityQueues/PriorityQueues.iml" filepath="$PROJECT_DIR$/PriorityQueues/PriorityQueues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StacknQueue/StacknQueue.iml" filepath="$PROJECT_DIR$/StacknQueue/StacknQueue.iml" />
+    </modules>
+  </component>
+</project>

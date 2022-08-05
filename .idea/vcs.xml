@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/BinaryTrees" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HashMaps" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HeapsNPriorityQueues" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LinkedLists" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PriorityQueues" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/StacknQueue" vcs="Git" />
+  </component>
+</project>
